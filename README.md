@@ -1,4 +1,4 @@
-# LBB 2 : INTERACTIVE PLOTTING
+# LBB 3 : INTERACTIVE PLOTTING
 
 ## Contoh Dashboard sebagai bahan referensi
 - https://nplaybook.shinyapps.io/earth_quake/
